@@ -48,7 +48,7 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <properties>
-		<sonar.host.url>http://100.26.211.188:9000/</sonar.host.url>
+		<sonar.host.url>http://100.25.154.232:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>                     
             </properties>
